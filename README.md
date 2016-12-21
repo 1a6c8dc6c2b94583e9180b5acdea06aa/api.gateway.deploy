@@ -1,4 +1,4 @@
-# wicked.haufe.io
+
 
 This is a sample deployment/configuration repository which allows you to deploy a sample API Portal within minutes to any `docker` host.
 
